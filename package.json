@@ -1,0 +1,23 @@
+{
+  "name": "ecmas-course",
+  "version": "1.0.0",
+  "description": "Curso de ECMAS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Akio1102/Ecmas-Course.git"
+  },
+  "keywords": [
+    "javascript",
+    "ecmascript"
+  ],
+  "author": "Akio",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Akio1102/Ecmas-Course/issues"
+  },
+  "homepage": "https://github.com/Akio1102/Ecmas-Course#readme"
+}
