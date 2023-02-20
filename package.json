@@ -16,6 +16,7 @@
   ],
   "author": "Akio",
   "license": "MIT",
+  "type": "module",
   "bugs": {
     "url": "https://github.com/Akio1102/Ecmas-Course/issues"
   },
