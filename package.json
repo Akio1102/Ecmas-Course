@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/Akio1102/Ecmas-Course/issues"
   },
-  "homepage": "https://github.com/Akio1102/Ecmas-Course#readme"
+  "homepage": "https://github.com/Akio1102/Ecmas-Course#readme",
+  "dependencies": {
+    "node-fetch": "^3.3.1"
+  }
 }
